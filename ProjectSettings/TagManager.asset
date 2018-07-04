@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - GreenBall
+  - YellowBall
+  - BlueBall
+  - GreenBullet
+  - YellowBullet
+  - BlueBullet
+  - Coin
+  - ColorBrick
+  - Brick
+  - Board
+  - BlueNormalBall
+  - YellowNormalBall
+  - GreenNormalBall
+  - BlueNormalBullet
+  - GreenNormalBullet
+  - YellowNormalBullet
+  - RainbowBall
+  - RainbowBullet
+  - BombBall
+  - BombBullet
+  - RainboeCube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

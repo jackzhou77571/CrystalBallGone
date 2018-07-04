@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1789013002387220}
+  m_IsPrefabParent: 1
+--- !u!1 &1789013002387220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4572160240712834}
+  - component: {fileID: 114501576456004782}
+  m_Layer: 0
+  m_Name: StoneSyetemController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4572160240712834
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789013002387220}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.452243, y: 1.4801308, z: -3.7382812}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114501576456004782
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789013002387220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0dc5b509462b2241b866c7d9204203d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stone:
+  - {fileID: 1054836973580718, guid: 8c4222d8ae4a74049a7d4ddfd2453ead, type: 2}
+  - {fileID: 1259131148292628, guid: 8cd092dc75a19384183b3d6ad51f2a23, type: 2}
+  - {fileID: 1136040419630130, guid: 6f70297e58d0af048889ac06e9ec35bb, type: 2}
+  - {fileID: 1052419866721864, guid: f5833b8e588125f458b5fa19819e4719, type: 2}
+  - {fileID: 1080801511908376, guid: c9aa23ac177c11643aaf4d173514eeee, type: 2}
+  - {fileID: 1332834089974668, guid: 8655a90aa550bbb4e87d88ac259ba1cb, type: 2}
+  - {fileID: 1821533724409482, guid: 12fa9e1aff9309746aa7a38ebd7e130c, type: 2}
+  - {fileID: 1300676106165600, guid: 85f34e39ee74e4b4e8261523e59830be, type: 2}
+  - {fileID: 1902838901872088, guid: d4c3ae345bbba8a498ed8091ee76bcf8, type: 2}
+  - {fileID: 1739640608263858, guid: 63d0b76c991008b42b5c0a4e342b07be, type: 2}
+  - {fileID: 1497763802239058, guid: 375b7eb79904be24d99c1e0d3229eb93, type: 2}
+  - {fileID: 1913790703076216, guid: 655682d6b8289f2469825063662d53fb, type: 2}
+  GreenStonePoint: {fileID: 0}
+  greenPoint: 6
